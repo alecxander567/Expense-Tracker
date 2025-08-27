@@ -16,9 +16,8 @@ Export to CSV: Save your expense data to a CSV file for external use.
 
 Local Storage: Expenses are saved locally in a JSON file for persistent storage.
 
-Technologies Used
-
-C#: Primary programming language.
+## Technologies Used
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 Windows Forms: UI framework for desktop applications.
 
@@ -26,35 +25,9 @@ Newtonsoft.Json: Library for handling JSON serialization and deserialization.
 
 System.IO: For file operations like reading from and writing to files.
 
-Getting Started
-Prerequisites
-
-Visual Studio
- with .NET Desktop Development workload installed.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/alecxander567/Expense-Tracker.git
-cd Expense-Tracker
-
-
-Open the solution file Expense Tracker App.sln in Visual Studio.
-
-Build and run the application.
-
-Usage
+## Build and run the application.
 
 Launch the application.
-
 Use the input fields to add new expenses.
-
 View and manage your expenses in the data grid.
-
 Use the "Export" button to save your expenses to a CSV file.
-
-License
-
-This project is open-source and available under the MIT License. See the LICENSE
- file for more details.
