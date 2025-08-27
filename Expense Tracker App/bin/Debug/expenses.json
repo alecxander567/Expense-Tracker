@@ -1,0 +1,26 @@
+[
+  {
+    "Description": "Buwan ng Wika",
+    "Category": "Extras",
+    "Amount": 70.00,
+    "Date": "2025-08-27T16:53:54.5870923+08:00"
+  },
+  {
+    "Description": "Tuition Fee",
+    "Category": "Tuition",
+    "Amount": 1000.00,
+    "Date": "2025-08-27T16:53:54.5870923+08:00"
+  },
+  {
+    "Description": "Minor Club ",
+    "Category": "Extras",
+    "Amount": 60.00,
+    "Date": "2025-08-27T16:53:54.5870923+08:00"
+  },
+  {
+    "Description": "Public Transportation",
+    "Category": "Transportation",
+    "Amount": 20.00,
+    "Date": "2025-08-27T16:53:54.5870923+08:00"
+  }
+]

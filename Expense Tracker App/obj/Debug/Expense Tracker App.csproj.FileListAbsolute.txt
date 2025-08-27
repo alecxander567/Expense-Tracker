@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\bin\Debug\Expense Tracker App.exe.config
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\bin\Debug\Expense Tracker App.exe
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\bin\Debug\Expense Tracker App.pdb
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense_Tracker_App.Form1.resources
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense_Tracker_App.Properties.Resources.resources
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.exe
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.pdb
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense Tracker App.exe.config
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Expense Tracker App\Expense Tracker App\obj\Debug\Expense .61C0B222.Up2Date

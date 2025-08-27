@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|c:\\users\\user\\source\\repos\\expense tracker app\\expense tracker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|solutionrelative:expense tracker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|C:\\Users\\User\\source\\repos\\Expense Tracker App\\expense tracker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|solutionrelative:expense tracker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|C:\\Users\\User\\source\\repos\\Expense Tracker App\\expense tracker app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E0DA42-B4F5-44DB-9D52-0FA29DF72209}|Expense Tracker App\\Expense Tracker App.csproj|solutionrelative:expense tracker app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Expense Tracker App\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.Designer.cs",
+              "RelativeToolTip": "Expense Tracker App\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAD4v/IAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:53:50.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.cs",
+              "RelativeDocumentMoniker": "Expense Tracker App\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.cs",
+              "RelativeToolTip": "Expense Tracker App\\Form1.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAOUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:07:50.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.cs",
+              "RelativeDocumentMoniker": "Expense Tracker App\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Expense Tracker App\\Expense Tracker App\\Form1.cs [Design]",
+              "RelativeToolTip": "Expense Tracker App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:44:18.2Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
