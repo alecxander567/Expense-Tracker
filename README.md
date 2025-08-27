@@ -25,9 +25,7 @@ Newtonsoft.Json: Library for handling JSON serialization and deserialization.
 
 System.IO: For file operations like reading from and writing to files.
 
-## Build and run the application.
-
-Launch the application.
+## Launch the application.
 Use the input fields to add new expenses.
 View and manage your expenses in the data grid.
 Use the "Export" button to save your expenses to a CSV file.
